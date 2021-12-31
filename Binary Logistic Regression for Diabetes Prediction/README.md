@@ -11,6 +11,7 @@ In this repository the following files are found;
 - diabetes_clean_03042021.csv – The cleaned data used for data visualisation and logistic regression 
 - LogisticFunction.ipynb – A Jupyter Notebook of plotting a logistic function (this was used in Figure 1 of the written document)
 - LogisticFunction.html – A HTML file of the above Jupyter Notebook.
+- LogisticFunctionData.csv - raw data used for creating logistic function in LogisticFunction.ipynb Jupyter Notebook
 - Diabetes Prediction using Logistic Regression Updated 05042021 Hyperparameters.ipynb – Jupyter Notebook of initial data cleaning, EDA and logistic regression of the dataset.
 - Diabetes Prediction using Logistic Regression Updated 05042021 Hyperparameters.html – A HTML file of the above Jupyter Notebook.
 - README.md – a README file of this repository
