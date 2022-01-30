@@ -3,3 +3,4 @@
  
  Current projects within the repository include;
  - Binary Logistic Regression for Diabetes Prediction 
+ - Prediction of coronary artery disease using logistic regression and support vector machines
